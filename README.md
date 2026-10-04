@@ -12,10 +12,3 @@ estructura, validar datos de entrada y ejecutar las operaciones fundamentales: e
 verificar estado, obtener tamaño y vaciar. La arquitectura sigue un diseño en tres capas (dominio, estructura y 
 presentación), garantizando la separación de responsabilidades y el cumplimiento de los principios de la Programación 
 Orientada a Objetos.
-
-Instrucciones para ejecutar proyecto
-
-  Descargar o clonar el repositorio
-  Abrir el proyecto en Apache NetBeans
-  Ejecutar
-  Utilizar la interfaz grafica y llenar los campos para las operaciones correspondientes
