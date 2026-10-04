@@ -15,7 +15,7 @@ Orientada a Objetos.
 
 Instrucciones para ejecutar proyecto
 
-Descargar o clonar el repositorio
-Abrir el proyecto en Apache NetBeans
-Ejecutar
-Utilizar la interfaz grafica y llenar los campos para las operaciones correspondientes
+  Descargar o clonar el repositorio
+  Abrir el proyecto en Apache NetBeans
+  Ejecutar
+  Utilizar la interfaz grafica y llenar los campos para las operaciones correspondientes
